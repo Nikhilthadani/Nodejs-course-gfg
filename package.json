@@ -1,0 +1,21 @@
+{
+  "name": "firstnodeapp",
+  "version": "1.0.0",
+  "description": "My first Node.js app!",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "": "",
+    "typescript": "^5.7.2"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
